@@ -1,1 +1,14 @@
-
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.zlink.talk",
+      "sha256_cert_fingerprints": [
+        "BD:66:90:E7:F9:95:58:71:FA:C5:3F:F9:4B:D3:33:8C:9F:B1:16:D8:7C:CD:FD:F1:44:05:5B:66:AE:0B:57:05"
+      ]
+    }
+  }
+]
